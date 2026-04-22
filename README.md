@@ -1,5 +1,5 @@
 #  🎯 number-guessing-game
-excited to create my first internship repo (SYNTECXHUB) . It is my first internship projects which is number guessing game .
+excited to create my first internship project in git repo (SYNTECXHUB) . It is my first internship projects which is number guessing game .
 
 This is a simple Command-Line Interface (CLI) based Number Guessing Game developed using Python.
 
